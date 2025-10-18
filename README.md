@@ -35,7 +35,7 @@ To perform a **manual risk and control assessment** for a sample company (**Fin 
 ## ⚙️ Tools & Methods
 - **Microsoft Excel** → for control evaluation and documentation.  
 - **Manual GRC Assessment** → to simulate real-world control analysis.  
-- **Diagram Tools (Draw.io / Canva)** → for organizational visualization.
+- **Diagram Tools (Canva)** → for organizational visualization.
 
 ---
 
