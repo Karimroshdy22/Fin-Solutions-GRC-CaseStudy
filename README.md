@@ -46,6 +46,6 @@ To perform a **manual risk and control assessment** for a sample company (**Fin 
 
 ---
 
-## 👤 Developed by
+##  Developed by
 **Karim Roshdy Mousa**  
 GRC Trainee – WE Innovate Bootcamp
